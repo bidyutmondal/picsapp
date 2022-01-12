@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picsapp/static/css/main.1d593f58.css",
+    "main.js": "/picsapp/static/js/main.337ee896.js",
+    "index.html": "/picsapp/index.html",
+    "main.1d593f58.css.map": "/picsapp/static/css/main.1d593f58.css.map",
+    "main.337ee896.js.map": "/picsapp/static/js/main.337ee896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d593f58.css",
+    "static/js/main.337ee896.js"
+  ]
+}
